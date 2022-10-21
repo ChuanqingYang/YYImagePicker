@@ -6,6 +6,10 @@ A Custom ImagePicker Code with `SwiftUI`.
 
 Thanks for [Kavsoft](https://www.youtube.com/c/Kavsoft)!!!😁
 
+# ScreenShot
+
+![Preview](https://github.com/ChuanqingYang/YYImagePicker/blob/main/screenshot.png)
+
 # Usage
 
 ``` swift
